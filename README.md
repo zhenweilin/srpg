@@ -4,7 +4,7 @@ This repository contains files that describe the RMDPs experiments in paper "A S
 
 
 
-All code are modified from repository https://github.com/JerrisonWang/ICML-DRPG.
+All code are modified from [repository](https://github.com/JerrisonWang/ICML-DRPG).
 
 
 
@@ -13,7 +13,7 @@ There are two folders. One is for  `Garnet Problem`  and  `Inventory Problem`.
 - Garnet Problem:
   - C++ codes for generating Garnet problems with different size
   - SRPG and DRPG implementation
-  - If you want to find another benchmark robust value iteration, please refer to https://github.com/JerrisonWang/ICML-DRPG. Since we consider gradient-based method in our paper.
+  - If you want to find another benchmark robust value iteration, please refer to [repository](https://github.com/JerrisonWang/ICML-DRPG). Since we consider gradient-based method in our paper.
 - Inventory
   - Python code for generating Inventory problem
   - Python codes for generating a inventory problem with parameterized transition and applying DRPG and SRPG to solve it
